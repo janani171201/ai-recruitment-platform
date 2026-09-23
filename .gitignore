@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+recruitment.db
+uploads/
+.env
+venv/
+.venv/
